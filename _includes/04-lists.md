@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* **_Robotics_**
+* **_Coding_**
+* **_Coding robots_** 😏
+* **_Video games_**
